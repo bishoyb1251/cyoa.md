@@ -7,7 +7,7 @@ The purpose of creating this repository was to allow people who like basketball 
 Some challenges I faced while doing this big project was communacation because my partner had switched classes and had gotten injured so it was a challenge to be able to get a right vision of what each other wanted to be able to focus on. Another challenge I had faced was making the site not crash. I say this because if I ended up doing something right another thing crashed. For example I pit pushed a page and it worked but the page to go to the whole thing had crashed. A few things I took away from this project was that I learned how to communicate even better so thats amazing. I also learned a few codes that I should have learned in the beggining of the year but I didnt like for example touch. Some next steps I have to do is make sure to be able to not struggle as much as I did on this project. For example I can focus in class a little more so I can be able to do the code better without getting confused. 
 
 ## Image ##
-![Screenshot 2024-02-08 5 07 36 PM]![image](https://github.com/bishoyb1251/cyoa.md/assets/146866628/ab467542-4dc3-4087-ba05-ec061da9796b)
+![]![image](https://github.com/bishoyb1251/cyoa.md/assets/146866628/ab467542-4dc3-4087-ba05-ec061da9796b)
 
 
 If you want to see the diagram its right here!!
